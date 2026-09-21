@@ -1,0 +1,8 @@
+SKU_ID,Category,Current_Stock,Reorder_Point,Daily_Demand,Lead_Time_Days,Unit_Cost_INR,Days_of_Supply,Stockout_Risk,Reorder_Quantity,Reorder_Cost_INR
+SKU-101,Electronics,45,50,5,7,1200,9.0,True,55,66000
+SKU-102,Furniture,120,80,10,5,4500,12.0,False,0,0
+SKU-103,Electronics,15,25,4,12,800,3.75,True,35,28000
+SKU-104,Supplies,200,100,15,3,150,13.333333333333334,False,0,0
+SKU-105,Furniture,8,15,3,10,3200,2.6666666666666665,True,22,70400
+SKU-106,Supplies,85,50,8,4,90,10.625,False,0,0
+SKU-107,Electronics,30,40,6,8,2100,5.0,True,50,105000
