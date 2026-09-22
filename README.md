@@ -9,7 +9,10 @@ Inventory stockouts lead to revenue loss and customer dissatisfaction, while ove
 
 ## 📊 Key Insights & Business Impact
 - **High-Risk SKUs Identified:** 4 out of 7 SKUs flagged for immediate replenishment.
-- **Financial Capital Impact:** Quantified an immediate capital requirement of **₹2,69,400** to prevent stockout losses.
+- **Financial Capital Impact:** Quantified an immediate capital requirement of ₹2,69,400 to prevent stockout losses.
 - **Operational Metric:** Reorder Points calculated dynamically based on daily demand and supplier lead times.
 
 ## 📁 Repository Structure
+- **supply_chain_analysis.py:** Main Inventory Optimization Script
+- **supply_chain_inventory_report.csv:** Exported Stock Risk Data
+- **README.md:** Documentation
